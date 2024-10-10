@@ -26,7 +26,44 @@ https://github.com/owasp-amass/amass/blob/master/examples/config.yaml
 -  you can download both file form [amass](https://github.com/owasp-amass/amass/blob/master/examples/config.yaml )
 
 - Now add API key in `datasources.yaml` file.
-- 
+
+
+# Run the tool
+
+- command
+```
+amass enum -h 
+```
+
+- now
+```
+amass enum -passive -d bitso.com -o <file path or save result file > -v
+```
+- eg
+```
+amass enum -passive -d bitso.com -o /home/kali/targret/bitso.txt -v
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
                                                     
