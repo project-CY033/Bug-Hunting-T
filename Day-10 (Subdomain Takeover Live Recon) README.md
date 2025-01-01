@@ -10,9 +10,10 @@
  
 
 
-* # 🚀 **What is Cloudflare**
+* # 🚀**What is Cloudflare**
+
 <details>
-   <summary>Click to  Read about Cloudflare </summary>
+<summary>Click to Read about Cloudflare</summary>
 
 ---
 
@@ -42,9 +43,11 @@ Cloudflare is a web infrastructure and website security company that provides se
    - Identifies and mitigates harmful bot traffic while allowing good bots.
 
 Cloudflare is widely used by websites to enhance performance, security, and reliability. It acts as a reverse proxy, sitting between the user and the server, to filter traffic and optimize delivery.
-   
+
+---
+
 </details>
-   
+
 
    
 
