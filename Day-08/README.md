@@ -36,6 +36,12 @@ subfinder -d bitso.com -all -silent -o bitso.txt
 ffuf -u "http://FUZZ.bitso.com" -w  /home/kali/Desktop/n0kovo_subdomains_medium.txt -mc 200 --rate 100 -v
 ```
 
+## This start burtforsing on target 
+
+```
+ffuf -u "http://FUZZ.chime.com" -w  /home/kali/Documents/n0kovo_subdomains_medium.txt   -mc 200 --rate 100 
+```
+
 
 
 
