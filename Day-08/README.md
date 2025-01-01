@@ -47,13 +47,21 @@ ffuf -u "http://FUZZ.chime.com" -w  /home/kali/Documents/n0kovo_subdomains_mediu
 
 
 
-## Second tool
+# Second tool
 ##  Oneforall  download form GitHub 
 ```
 https://github.com/shmilylty/OneForAll.git
 ```
 
 
+
+## OneForAll [READ](https://github.com/shmilylty/OneForAll/tree/master/docs/en-us)
+
+### OneForAll is a powerful subdomain integration tool 
+
+```
+https://github.com/shmilylty/OneForAll/tree/master/docs/en-us
+```
 
 
 
