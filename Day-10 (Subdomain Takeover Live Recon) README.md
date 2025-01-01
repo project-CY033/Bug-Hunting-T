@@ -1,4 +1,22 @@
-### Notes on Subdomain Takeover - Steps, Commands, and Tools
+# Subdomain Takeover .
+### defronix. com
+### help.defronix.com -
+### Github, Google Cloud, Amazon Cloud, unbounce, Azure, Netlify (To
+### host some services on these 3rd party cloud services.)
+### help.defronix.com = Reach to Github Service
+### (redirection) + service showcase/ result
+
+# CNAME - canonical name --> Work : map one domian to another without giving any ip address.
+map one domain to another with
+
+
+
+
+
+---
+---
+
+# Notes on Subdomain Takeover - Steps, Commands, and Tools
 
 #### **1. Introduction to Subdomain Takeover**
 - Subdomain Takeover occurs when a subdomain points to a third-party service (e.g., GitHub, AWS) that is no longer in use, but the DNS entry (CNAME record) still exists. 
