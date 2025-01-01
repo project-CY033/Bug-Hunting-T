@@ -7,7 +7,7 @@
 ### (redirection) + service showcase/ result
 
 * # 🚀 CNAME - canonical name --> Work : map one domian to another without giving any ip address.
-map one domain to another with
+ 
 
 
 * # 🚀 **What is Cloudflare**
