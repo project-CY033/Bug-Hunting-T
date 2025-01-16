@@ -4,6 +4,8 @@
 <details> 
    <summary>Click here to Read nots for Day - 10 Subdomain takeover</summary>
 
+---
+---
 ### defronix. com
 ### help.defronix.com -
 ### Github, Google Cloud, Amazon Cloud, unbounce, Azure, Netlify (To
@@ -166,6 +168,8 @@ Cloudflare is widely used by websites to enhance performance, security, and reli
 </details>
 
 
+---
+---
 
 # Important points 👇👽
 
