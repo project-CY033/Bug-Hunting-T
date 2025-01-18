@@ -10,7 +10,7 @@
 
 ```
 bevigil: [fjxPEPpo7eHKe4SC]
-binaryedge: []
+binaryedge: [e9e1ad56-030b-491b-a142-e0dc0119ceb7]
 bufferover: []
 c99: []
 censys: [a9dd00df-80fc-4364-89f6-eefb1b850c8e]
@@ -47,7 +47,7 @@ zoomeyeapi: []
 # Here is a Platform URl to find  API of  provider-config.yaml
 ---
 - bevigil:  
-- binaryedge:  
+- binaryedge:  https://www.binaryedge.io/
 - bufferover: 
 - c99:  
 - censys:  
