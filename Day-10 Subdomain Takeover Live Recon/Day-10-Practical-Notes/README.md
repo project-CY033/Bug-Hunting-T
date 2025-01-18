@@ -1,7 +1,7 @@
 # Day- 10 
 
 ## 1. Tools [GO](#tools)
-## 2. Check CNAM Recored [GO](#check-CNAM-recored)
+## 2. Check CNAM Recored [GO](#check-record)
 ## 3.           [GO]()
 
 
@@ -30,8 +30,9 @@
 
 ---
 
-
+### Check Record 
 # 2. Check CNAM Recored 
+
 <details >
    <summary>Click to see the staps</summary>
 
