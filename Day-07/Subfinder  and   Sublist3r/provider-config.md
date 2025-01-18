@@ -60,7 +60,7 @@ zoomeyeapi: []
 - fullhunt: 
 - github:  
 - hunter:  https://hunter.io/api-keys
-- intelx:  
+- intelx:   https://intelx.io/integrations
 - leakix:  
 - netlas:  
 - passivetotal: 
