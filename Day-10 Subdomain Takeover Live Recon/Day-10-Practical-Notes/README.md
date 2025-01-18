@@ -1,7 +1,9 @@
 # Day- 10 
 
-# Tools
-# Check CNAM Recored 
+## 1. Tools [GO](tools)
+## 2. Check CNAM Recored [GO](check-cnam-recored)
+## 3.           [GO]()
+
 
 
 ---
@@ -26,22 +28,8 @@
 </details>
 
 
-# Check CNAM Recored 
-<details >
-   <summary>Click to see the staps</summary>
-
----
 ---
 
-
-
- 
-  
-</details>
-
-
-
----
 
 # 2. Check CNAM Recored 
 <details >
@@ -62,6 +50,10 @@ dig <sub domain or any domain which you awant to chaenc the CNAM record >
 dig  accounts.tesla.com
 ```
 
+### for particular means only see `CNAM`
+```
+dig accounts.tesla.com CNAM
+```
  
   
 </details>
@@ -70,7 +62,7 @@ dig  accounts.tesla.com
 
 
 
-# 3. Check CNAM Recored 
+# 3.  
 <details >
    <summary>Click to see the staps</summary>
 
@@ -87,7 +79,22 @@ dig  accounts.tesla.com
 
 
 
+#  
+<details >
+   <summary>Click to see the staps</summary>
 
+---
+---
+
+
+
+ 
+  
+</details>
+
+
+
+---
 
 
 
