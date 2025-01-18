@@ -30,8 +30,9 @@
 
 ---
 
-### Check Record 
+
 # 2. Check CNAM Recored 
+### Check Record 
 
 <details >
    <summary>Click to see the staps</summary>
