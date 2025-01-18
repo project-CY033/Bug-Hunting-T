@@ -1,3 +1,8 @@
+# Day-8 Directory Bruteforce, Screenshot, More Subdomains Live Recon
+
+
+
+
 #  Day 7 revision
 
 ## Subdomain 
