@@ -14,7 +14,7 @@ binaryedge: [e9e1ad56-030b-491b-a142-e0dc0119ceb7]
 bufferover: []
 c99: []
 censys: [a9dd00df-80fc-4364-89f6-eefb1b850c8e]
-certspotter: []
+certspotter: [k58173_T7q1J5xCRyVWPqnwSB2I]
 chaos: []
 chinaz: []
 dnsdb: []
@@ -51,7 +51,7 @@ zoomeyeapi: []
 - bufferover:  https://newtls.bufferover.run
 - c99:  
 - censys:   https://search.censys.io/
-- certspotter:  
+- certspotter:  https://sslmate.com/account/contact
 - chaos:  
 - chinaz:  
 - dnsdb: 
