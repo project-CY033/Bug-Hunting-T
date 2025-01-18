@@ -20,7 +20,7 @@ chinaz: []
 dnsdb: []
 dnsrepo: []
 fofa: [ff999039b4cf7674ba9cee0224531731]
-fullhunt: []
+fullhunt: [7afb9a7d-3a57-47bc-96da-c3f6da4f710a]
 github: []
 hunter: [c7039033d1f4dbb9dc7c7c1dcf335a6e6383103c]
 intelx: [e74919b0-85ae-4a21-a463-3346b7c69fe3]
@@ -57,7 +57,7 @@ zoomeyeapi: []
 - dnsdb: 
 - dnsrepo:  https://dnsarchive.net/
 - fofa:  https://en.fofa.info/
-- fullhunt: 
+- fullhunt:  https://fullhunt.io/
 - github:  
 - hunter:  https://hunter.io/api-keys
 - intelx:   https://intelx.io/integrations
