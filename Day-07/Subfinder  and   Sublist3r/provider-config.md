@@ -19,7 +19,7 @@ chaos: []
 chinaz: []
 dnsdb: []
 dnsrepo: []
-fofa: []
+fofa: [ff999039b4cf7674ba9cee0224531731]
 fullhunt: []
 github: []
 hunter: [c7039033d1f4dbb9dc7c7c1dcf335a6e6383103c]
@@ -56,7 +56,7 @@ zoomeyeapi: []
 - chinaz:  
 - dnsdb: 
 - dnsrepo:  https://dnsarchive.net/
-- fofa: 
+- fofa:  https://en.fofa.info/
 - fullhunt: 
 - github:  
 - hunter:  https://hunter.io/api-keys
