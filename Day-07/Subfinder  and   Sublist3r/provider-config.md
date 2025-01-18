@@ -48,7 +48,7 @@ zoomeyeapi: []
 ---
 - bevigil:  
 - binaryedge:  https://www.binaryedge.io/
-- bufferover: 
+- bufferover:  https://newtls.bufferover.run
 - c99:  
 - censys:  
 - certspotter:  
