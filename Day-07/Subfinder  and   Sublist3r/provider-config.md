@@ -55,7 +55,7 @@ zoomeyeapi: []
 - chaos:  
 - chinaz:  
 - dnsdb: 
-- dnsrepo:  
+- dnsrepo:  https://dnsarchive.net/
 - fofa: 
 - fullhunt: 
 - github:  
