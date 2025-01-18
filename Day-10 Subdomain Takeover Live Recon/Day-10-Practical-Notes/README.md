@@ -66,6 +66,11 @@ nslookup <sub domain or any domain which you awant to chaenc the CNAM record >
 ```
 nslookup accounts.tesla.com CNAM
 ```
+
+-  use `CNAM` 
+```
+nslookup accounts.tesla.com CNAM
+```
 - want to see full details
 ```
 nslookup accounts.tesla.com ANY
