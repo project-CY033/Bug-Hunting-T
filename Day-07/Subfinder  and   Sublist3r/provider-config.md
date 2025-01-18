@@ -43,3 +43,52 @@ zoomeyeapi: []
 
 </details>
 
+
+# Here is a Platform URl to find  API of  provider-config.yaml
+---
+- bevigil:  
+- binaryedge:  
+- bufferover: 
+- c99:  
+- censys:  
+- certspotter:  
+- chaos:  
+- chinaz:  
+- dnsdb: 
+- dnsrepo:  
+- fofa: 
+- fullhunt: 
+- github:  
+- hunter:  https://hunter.io/api-keys
+- intelx:  
+- leakix:  
+- netlas:  
+- passivetotal: 
+- quake:  
+- robtex: 
+- securitytrails:  
+- shodan:  
+- threatbook:  
+- virustotal:  
+- whoisxmlapi:  
+- zoomeye:  
+- zoomeyeapi:  
+
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
