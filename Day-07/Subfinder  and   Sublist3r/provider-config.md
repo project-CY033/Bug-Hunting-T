@@ -50,7 +50,7 @@ zoomeyeapi: []
 - binaryedge:  https://www.binaryedge.io/
 - bufferover:  https://newtls.bufferover.run
 - c99:  
-- censys:  
+- censys:   https://search.censys.io/
 - certspotter:  
 - chaos:  
 - chinaz:  
