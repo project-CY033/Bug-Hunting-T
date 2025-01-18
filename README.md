@@ -1,6 +1,24 @@
 # Bug-Hunting-T
 
-# Awesome Bug Bounty Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## 1. Day-1 What is Bug Bounty & How To Get Started [Go](https://github.com/project-CY033/Bug-Hunting-T/tree/main/Day-01)
+## 2. Day-2 How To Choose Right Target For Bug Bounty [Go](https://github.com/project-CY033/Bug-Hunting-T/tree/main/Day-02)
+## 3. Day-3 OWASP Top 10, Broken Web Application & Metasploitable [Go](https://github.com/project-CY033/Bug-Hunting-T/tree/main/Day-03)
+## 4. Day-4 Burp Suite In-Depth Tutoria [Go](https://github.com/project-CY033/Bug-Hunting-T/tree/main/Day-04)
+## 5. Day-5 Live Recon For Gathering All Information [Go](https://github.com/project-CY033/Bug-Hunting-T/tree/main/Day-05)
+## 6. Day-6 Finding Secrets Using Shodan in Live Recon [Go](https://github.com/project-CY033/Bug-Hunting-T/tree/main/Day-06)
+## 7. Day-7 Subdomain Finding Live Recon [Go](https://github.com/project-CY033/Bug-Hunting-T/tree/main/Day-07)
+## 8. Day-8 Directory Bruteforce, Screenshot, More Subdomains Live Recon [Go](https://github.com/project-CY033/Bug-Hunting-T/tree/main/Day-08) 
+
+
+
+
+
+
+
+
+
+
+# Bug Bounty Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  
  A curated list of various bug bounty tools
@@ -514,17 +532,4 @@ Lorem ipsum dolor sit amet
 - [httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
 - [csprecon](https://github.com/edoardottt/csprecon) - Discover new target domains using Content Security Policy 
 
----
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
----
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, vavkamil has waived all copyright and
-related or neighboring rights to this work.
+--- 
