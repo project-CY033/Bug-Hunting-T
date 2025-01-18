@@ -56,6 +56,22 @@ dig  accounts.tesla.com
 ```
 dig accounts.tesla.com CNAM
 ```
+
+
+# OR Use `nslookup`
+```
+nslookup <sub domain or any domain which you awant to chaenc the CNAM record >
+```
+- Examplte
+```
+nslookup accounts.tesla.com CNAM
+```
+- want to see full details
+```
+nslookup accounts.tesla.com ANY
+```
+
+
  
   
 </details>
