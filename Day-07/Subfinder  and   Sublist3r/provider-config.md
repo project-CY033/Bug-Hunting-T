@@ -67,7 +67,7 @@ zoomeyeapi: []
 - quake:  
 - robtex: https://www.robtex.com/
 - securitytrails:   https://securitytrails.com/
-- shodan:  
+- shodan:  https://account.shodan.io/
 - threatbook:  
 - virustotal:  
 - whoisxmlapi:  
