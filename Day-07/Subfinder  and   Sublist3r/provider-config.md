@@ -69,7 +69,7 @@ zoomeyeapi: []
 - securitytrails:   https://securitytrails.com/
 - shodan:  https://account.shodan.io/
 - threatbook:  https://threatbook.io/my-api
-- virustotal:  
+- virustotal:  https://www.virustotal.com/gui/user/infogathyer12/apikey
 - whoisxmlapi:  
 - zoomeye:  
 - zoomeyeapi:  
