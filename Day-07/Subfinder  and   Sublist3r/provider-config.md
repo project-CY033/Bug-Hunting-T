@@ -29,7 +29,7 @@ netlas: [O7VSsny1DqOPUic9V1wx6oLHSPH7bMvI]
 passivetotal: []
 quake: []
 robtex: []
-securitytrails: []
+securitytrails: [S4kX17xdGtRCS_dmxgZ4MUGFTkfiQUR2]
 shodan: [eSNTXCYrJmRSedE4hufSBIFjAxAQkEoO]
 threatbook: []
 virustotal: [591e91fc74b9f00acfde7ffd5e1d2152bbe9342bd5bd65777f7cc4d18ff32702]
@@ -65,8 +65,8 @@ zoomeyeapi: []
 - netlas:   https://netlas.io/
 - passivetotal: 
 - quake:  
-- robtex: 
-- securitytrails:  
+- robtex: https://www.robtex.com/
+- securitytrails:   https://securitytrails.com/
 - shodan:  
 - threatbook:  
 - virustotal:  
