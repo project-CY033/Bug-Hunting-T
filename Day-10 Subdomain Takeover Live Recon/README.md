@@ -1,4 +1,4 @@
-# **Subdomain Takeover** .
+# **Subdomain Takeover** .     [Learn 👇](https://www.youtube.com/live/E5djR98tXwE?si=XgLYbpiyRwr3Shbg)
 
 
 <details> 
