@@ -25,3 +25,28 @@ bykea.com.              5       IN      A       172.67.214.144
 
 
 ```
+
+
+---
+---
+# nslookup bykea.com 
+```
+
+```
+### output 
+```
+
+;; communications error to 192.168.233.2#53: timed out
+Server:         192.168.233.2
+Address:        192.168.233.2#53
+
+Non-authoritative answer:
+Name:   bykea.com
+Address: 172.67.214.144
+Name:   bykea.com
+Address: 104.21.59.53
+Name:   bykea.com
+Address: 2606:4700:3031::ac43:d690
+Name:   bykea.com
+Address: 2606:4700:3034::6815:3b35
+```
