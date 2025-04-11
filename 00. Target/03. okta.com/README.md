@@ -191,3 +191,26 @@ okta.com.               5       IN      NS      ns-cloud-a3.googledomains.com.
 
 ```
 
+---
+---
+---
+---
+# nmap 
+
+```
+┌──(kali㉿kali)-[~]
+└─$ nmap -Pn -sS -T4 -p- okta.com
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-11 11:23 IST
+Nmap scan report for okta.com (44.210.31.21)
+Host is up.
+rDNS record for 44.210.31.21: ec2-44-210-31-21.compute-1.amazonaws.com
+All 65535 scanned ports on okta.com (44.210.31.21) are in ignored states.
+Not shown: 65535 filtered tcp ports (no-response)
+
+Nmap done: 1 IP address (1 host up) scanned in 6575.70 seconds
+                                                                                                                       
+┌──(kali㉿kali)-[~]
+└─$ 
+
+
+```
