@@ -1,0 +1,7 @@
+[readme-md] [http] [info] https://help.okta.com/README.md
+[readme-md] [http] [info] https://openenrollment.okta.com/README.md
+[readme-md] [http] [info] https://www-cms.okdev.okta.com/README.md
+[readme-md] [http] [info] https://www-cms.okqa.okta.com/README.md
+[readme-md] [http] [info] https://www.okdev.okta.com/README.md
+[readme-md] [http] [info] https://www.okstg.okta.com/README.md
+[readme-md] [http] [info] https://www.okqa.okta.com/README.md
