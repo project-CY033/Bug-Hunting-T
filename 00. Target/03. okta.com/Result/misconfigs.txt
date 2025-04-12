@@ -1,1 +1,137 @@
-
+[cookies-without-httponly] [javascript] [info] alcon.kerberos.okta.com ["xids","autolaunch_triggered","activate_ca_modal_triggered","sid"]
+[cookies-without-httponly] [javascript] [info] aexp.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] aexp.kerberos.okta.com ["autolaunch_triggered","activate_ca_modal_triggered","sid","xids"]
+[cookies-without-httponly] [javascript] [info] aitworldwide.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] alkermes.kerberos.okta.com ["t","xids","sid","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] aitworldwide.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] alkermes.kerberos.okta.com ["activate_ca_modal_triggered","t","xids","sid","autolaunch_triggered"]
+[cookies-without-httponly] [javascript] [info] aaa-life.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] 24hf.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] adt.kerberos.okta.com ["activate_ca_modal_triggered","sid","xids","autolaunch_triggered"]
+[cookies-without-secure] [javascript] [info] aecom.kerberos.okta.com ["xids","sid","autolaunch_triggered","activate_ca_modal_triggered","t"]
+[cookies-without-httponly] [javascript] [info] aecom.kerberos.okta.com ["t","xids","sid","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] airmethods.kerberos.okta.com ["activate_ca_modal_triggered","t","xids","sid","autolaunch_triggered"]
+[cookies-without-secure] [javascript] [info] aigtech.kerberos.okta.com ["activate_ca_modal_triggered","sid","xids","autolaunch_triggered"]
+[cookies-without-httponly] [javascript] [info] aigtech.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] agoda.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] 24hf.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] aiatest.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] aaa-life.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] alcon.kerberos.okta.com ["xids","autolaunch_triggered","activate_ca_modal_triggered","sid"]
+[cookies-without-secure] [javascript] [info] action-hub.controls-assurance.okta.com ["session"]
+[cookies-without-secure] [javascript] [info] arthrex.kerberos.okta.com ["activate_ca_modal_triggered","sid","xids","autolaunch_triggered"]
+[cookies-without-httponly] [javascript] [info] arthrex.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] amaurygroupe.kerberos.okta.com ["activate_ca_modal_triggered","sid","xids","autolaunch_triggered"]
+[cookies-without-httponly] [javascript] [info] aon.kerberos.okta.com ["xids","autolaunch_triggered","activate_ca_modal_triggered","sid"]
+[cookies-without-secure] [javascript] [info] aon.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] asendia.kerberos.okta.com ["autolaunch_triggered","activate_ca_modal_triggered","sid","xids"]
+[cookies-without-httponly] [javascript] [info] at1.at.okta.com ["XSRF-TOKEN"]
+[cookies-without-httponly] [javascript] [info] at3.at.okta.com ["XSRF-TOKEN"]
+[cookies-without-httponly] [javascript] [info] copera.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] oeconnection.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] photon.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] polsinelli.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] sugarcrm.kerberos.okta.com ["xids","sid","autolaunch_triggered","activate_ca_modal_triggered","t"]
+[cookies-without-secure] [javascript] [info] transre.kerberos.okta.com ["xids","sid","autolaunch_triggered","activate_ca_modal_triggered","t"]
+[cookies-without-secure] [javascript] [info] travelport-corp.kerberos.okta.com ["xids","autolaunch_triggered","activate_ca_modal_triggered","sid"]
+[cookies-without-secure] [javascript] [info] tricon.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-secure] [javascript] [info] tylersso.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] tylersso.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] ufcu.okta.com ["xids","sid","autolaunch_triggered","activate_ca_modal_triggered","t","DT"]
+[cookies-without-httponly] [javascript] [info] virginiastateuniversity.kerberos.okta.com ["autolaunch_triggered","activate_ca_modal_triggered","sid","xids"]
+[cookies-without-secure] [javascript] [info] virginiastateuniversity.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[cookies-without-httponly] [javascript] [info] wwecorp.kerberos.okta.com ["activate_ca_modal_triggered","sid","xids","autolaunch_triggered"]
+[cookies-without-secure] [javascript] [info] wexinc.kerberos.okta.com ["sid","xids","autolaunch_triggered","activate_ca_modal_triggered"]
+[missing-sri] [http] [info] https://allvuesystems.kerberos.okta.com ["https://ok7static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css"]
+[missing-sri] [http] [info] https://aaa-life.okta.com/app/UserHome?iss=https%3A%2F%2Faaa-life.okta.com&session_hint=AUTHENTICATED ["https://ok11static.oktacdn.com/assets/apps/enduser-v2.enduser/0.0.1-2412-g737f37c/static/css/main.css"]
+[missing-sri] [http] [info] https://apps.community.okta.com ["https://okta.s3.amazonaws.com/error/okta.css"]
+[missing-sri] [http] [info] https://autorenew.okta.com:443/ ["https://ok1static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css"]
+[missing-sri] [http] [info] https://baxtertest.kerberos.okta.com:443/ ["https://baxtertest.kerberos.okta.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css"]
+[missing-sri] [http] [info] https://ball.okta.com/app/UserHome?iss=https%3A%2F%2Fball.okta.com&session_hint=AUTHENTICATED ["https://ok11static.oktacdn.com/assets/apps/enduser-v2.enduser/0.0.1-2412-g737f37c/static/css/main.css"]
+[missing-sri] [http] [info] https://az.okta.com/app/UserHome?iss=https%3A%2F%2Faz.okta.com&session_hint=AUTHENTICATED ["https://ok5static.oktacdn.com/assets/apps/enduser-v2.enduser/0.0.1-2412-g737f37c/static/css/main.css"]
+[missing-sri] [http] [info] https://ross.kerberos.okta.com:443/ ["https://ok2static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css"]
+[missing-sri] [http] [info] https://ufcu.okta.com ["https://ok6static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css"]
+[missing-sri] [http] [info] https://technicolor.kerberos.okta.com:443/ ["https://ok3static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css"]
+[missing-sri] [http] [info] https://www.trust.okta.com:443/ ["https://okta.s3.amazonaws.com/error/okta.css"]
+[missing-sri] [http] [info] https://www.saml-docs.okta.com:443/ ["https://okta.s3.amazonaws.com/error/okta.css"]
+[missing-sri] [http] [info] https://www.toolkit.okta.com:443/ ["https://okta.s3.amazonaws.com/error/okta.css"]
+[missing-sri] [http] [info] https://www.regionalevents.okta.com:443/ ["https://okta.s3.amazonaws.com/error/okta.css"]
+[missing-sri] [http] [info] https://www.www-dev-qa.okta.com ["https://okta.s3.amazonaws.com/error/okta.css"]
+[missing-sri] [http] [info] https://xolv.kerberos.okta.com ["https://ok7static.oktacdn.com/assets/loginpage/css/loginpage-theme.c8c15f6857642c257bcd94823d968bb1.css"]
+[http-missing-security-headers:clear-site-data] [http] [info] https://aecom.kerberos.okta.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://aecom.kerberos.okta.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://aecom.kerberos.okta.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://aecom.kerberos.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://aecom.kerberos.okta.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://aecom.kerberos.okta.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://aecom.kerberos.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://adif.okta.com/app/UserHome?iss=https%3A%2F%2Fadif.okta.com&session_hint=AUTHENTICATED
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://adif.okta.com/app/UserHome?iss=https%3A%2F%2Fadif.okta.com&session_hint=AUTHENTICATED
+[http-missing-security-headers:clear-site-data] [http] [info] https://adif.okta.com/app/UserHome?iss=https%3A%2F%2Fadif.okta.com&session_hint=AUTHENTICATED
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://adif.okta.com/app/UserHome?iss=https%3A%2F%2Fadif.okta.com&session_hint=AUTHENTICATED
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://adif.okta.com/app/UserHome?iss=https%3A%2F%2Fadif.okta.com&session_hint=AUTHENTICATED
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://adif.okta.com/app/UserHome?iss=https%3A%2F%2Fadif.okta.com&session_hint=AUTHENTICATED
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://allvuesystems.kerberos.okta.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://allvuesystems.kerberos.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://allvuesystems.kerberos.okta.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://allvuesystems.kerberos.okta.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://allvuesystems.kerberos.okta.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://allvuesystems.kerberos.okta.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://alkermes.kerberos.okta.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://alkermes.kerberos.okta.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://alkermes.kerberos.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://alkermes.kerberos.okta.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://alkermes.kerberos.okta.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://alkermes.kerberos.okta.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://alkermes.kerberos.okta.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://airmethods.kerberos.okta.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://airmethods.kerberos.okta.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://airmethods.kerberos.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://airmethods.kerberos.okta.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://airmethods.kerberos.okta.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://airmethods.kerberos.okta.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://apps.community.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:strict-transport-security] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:x-frame-options] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:x-content-type-options] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:referrer-policy] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:clear-site-data] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:content-security-policy] [http] [info] https://staging-s3-yum-repo.oag.okta.com/
+[http-missing-security-headers:permissions-policy] [http] [info] https://ufcu.okta.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://ufcu.okta.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://ufcu.okta.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://ufcu.okta.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://ufcu.okta.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://ufcu.okta.com
+[http-missing-security-headers:content-security-policy] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:referrer-policy] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:strict-transport-security] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:x-frame-options] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:x-content-type-options] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://www.www-dev-qa.okta.com
+[http-missing-security-headers:permissions-policy] [http] [info] https://xolv.kerberos.okta.com
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://xolv.kerberos.okta.com
+[http-missing-security-headers:clear-site-data] [http] [info] https://xolv.kerberos.okta.com
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://xolv.kerberos.okta.com
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://xolv.kerberos.okta.com
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://xolv.kerberos.okta.com
